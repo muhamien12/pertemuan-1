@@ -1,4 +1,4 @@
-karakter = 'Mayer'
+karakter = 'Jon Snow'
 price = 10
 x = 7
 y = 8
